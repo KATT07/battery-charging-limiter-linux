@@ -1,4 +1,4 @@
-# Battery Charging limiter Linux (ASUS Laptops)
+# Battery Charging limiter Linux (ASUS Laptops)  - ONLY SYSTEMD
 
 When the laptop is being constantly used with a charger plugged in it is better to limit the charging at 60% to 80% to improve the battery health.
 Many laptop vendors like Asus provide software utility to set the battery max charge threshold but it works only in windows.
